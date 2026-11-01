@@ -1,0 +1,17 @@
+{
+    "name": "user/guzzle_design_ex",
+    "autoload": {
+        "psr-4": {
+            "User\\GuzzleDesignEx\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "krauveiss",
+            "email": "alexandr_gon@bk.ru"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^8.3"
+    }
+}
